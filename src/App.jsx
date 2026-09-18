@@ -14,8 +14,8 @@ import flow2Img from "./assets/flow2.drawio.png";
 import ani1Vid from "./assets/ani1.webm";
 import ani2Vid from "./assets/ani2.webm";
 import timelineImg from "./assets/project timeline.jpg";
-import demoVideo from "./assets/Working demo.mp4";
-import demoVideo2 from "./assets/working demo2.mp4";
+import demoVideo from "./assets/working-demo.mp4";
+import demoVideo2 from "./assets/working-demo2.mp4";
 import "./App.css";
 
 const slides = [
